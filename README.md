@@ -16,7 +16,7 @@ make or make re
 ./sl_map_generator random.ber 140 139 0 0
 ```
 ## Warning
-```bash
+```
 The max that u can generate is a map of 210x209 or 209x210.
 The map need to be a rectangle.
 The generator test if the generated map can be playable,
