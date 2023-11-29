@@ -22,5 +22,6 @@ The map need to be a rectangle.
 The generator test if the generated map can be playable,
 if the map is not playable, a new map will be made.
 After 30 000 try if the map is still not playable the program will stop.
-/!\The 42 norme is not respected some functions used in this project are not available for the so_long project so, dont include it when u send ur so_long
+/!\The 42 norm is not respected some functions used in this project are not available
+for the so_long project so, dont include it when u send ur so_long
 ```
