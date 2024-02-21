@@ -1,5 +1,5 @@
 # sl_map_generator
-A beta of the map generator for the school 42 so_long project
+A beta of the map generator for the school 42 so_long project, project is already added on 42_School git, will be deleted soon
 
 ## Install
 ```bash
