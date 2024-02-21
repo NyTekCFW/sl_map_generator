@@ -32,7 +32,7 @@ int	sl_dimension_check(char **argv)
 			write(1, "\033[31mError : Map need to be >= than 3x5 or 5x3\n", 47);
 	}
 	else
-		write(1, "\033[31mError : Map allocation bigger than 44 100 (210x210)\n", 60);
+		write(1, "\033[31mError : Map allocation bigger than 44 100 (210x210)\n", 57);
 	return (0);
 }
 

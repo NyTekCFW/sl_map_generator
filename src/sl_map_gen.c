@@ -104,6 +104,7 @@ void	sl_init_base_map(t_gmap *mapping)
 		sl_insert_multiple(mapping, 'E', 1);
 		sl_insert_multiple(mapping, 'C', mapping->max_collector);
 		sl_insert_multiple(mapping, '1', mapping->max_wall);
+		sl_insert_multiple(mapping, 'A', 1);
 		sl_count_brush(mapping);
 		if (sl_str_to_array(mapping))
 			v = 1;
